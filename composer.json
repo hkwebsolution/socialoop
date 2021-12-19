@@ -1,0 +1,19 @@
+{
+  "name": "hkwebsolution/social23",
+  "description": "Student CURD assignment with oop",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "humayunkabir",
+      "email": "mhk.freelancer@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
